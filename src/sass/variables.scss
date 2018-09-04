@@ -1,0 +1,20 @@
+$url-path: "../../";
+
+$break-mobile: 768px;
+$break-tablet: 1024px;
+
+$devices: not-desktop phablets phones-tablets;
+$devices: not-desktop phablets phones-tablets;
+
+/*color*/
+$colorRed: rgba(215, 70, 70, 1);
+$colorSkyGrad: linear-gradient(to top, #0398d8 0%, #02a5eb 99%, #02a5eb 100%);
+$colorBlue: rgba(20, 54, 105, 1);
+$colorBlueDark: #202530;
+$gray: #ddd;
+
+/*fonts*/
+$proxima: "Proxima Nova", sans-serif;
+
+/*effects*/
+$time: .4s ease-out;
