@@ -1,16 +1,18 @@
 <template>
-
-    <TopBanner/>
-
+    <div>
+        <topBanner/>
+        <infoLine/>
+    </div>
 </template>
 
 <script>
-    import TopBanner from '../components/TopBanner'
+    import topBanner from '../components/topBanner';
+    import infoLine from '../components/infoLine';
 
     export default {
         name: 'home',
         components: {
-            TopBanner
+            topBanner, infoLine
         }
     }
 

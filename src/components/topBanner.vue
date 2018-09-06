@@ -16,13 +16,13 @@
 </template>
 <script>
     export default {
-        name: 'TopBanner'
+        name: 'topBanner'
     }
 
 </script>
 
 <style lang="scss">
-    @import "../sass/index";
+      @import "../sass/index";
 
     .banner_top_section {
         width: 100%;
